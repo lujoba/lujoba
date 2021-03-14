@@ -28,6 +28,9 @@ In my master’s degree, I used AI techniques to classify the electrical signal 
 
 ![Luiz Barbosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lujoba&show_icons=true&theme=dark)
 
+### Curriculum
+- [CV](https://github.com/lujoba/Publications/blob/master/curriculum/CV___Luiz_Barbosa.pdf)
+
 <!--
 **lujoba/lujoba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
