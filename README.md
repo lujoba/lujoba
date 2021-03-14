@@ -12,7 +12,7 @@ In my master’s degree, I used AI techniques to classify the electrical signal 
 
 - [Image Processing](https://github.com/lujoba/ImageProcessing)
 - [Utils](https://github.com/lujoba/Utils)
-- [Publications](https://github.com/lujoba/Documents)
+- [Publications](https://github.com/lujoba/Publications)
 
 ### Top Programing Languages
 
