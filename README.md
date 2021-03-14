@@ -17,7 +17,7 @@ In my master’s degree, I used AI techniques to classify the electrical signal 
 
 ### Top Programing Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lujoba&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lujoba&theme=dark&layout=compact&hide=tex,lua)
 
 - I start programming at university with C.
 - My preferred language is C++ 😱.
