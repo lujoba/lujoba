@@ -10,9 +10,10 @@ In my master’s degree, I used AI techniques to classify the electrical signal 
 
 ### Repositories:
 
-- [Image Processing](https://github.com/lujoba/ImageProcessing)
-- [Utils](https://github.com/lujoba/Utils)
-- [Publications](https://github.com/lujoba/Publications)
+- [DSP](https://github.com/lujoba/DSP): Digital signal processing scripts;
+- [Image Processing](https://github.com/lujoba/ImageProcessing): Some libraries for helping with image processing and data augmentation;
+- [Utils](https://github.com/lujoba/Utils): Some scripts for analysis and pre-processing of images;
+- [Publications](https://github.com/lujoba/Publications): My publications.
 
 ### Top Programing Languages
 
