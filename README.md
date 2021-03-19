@@ -10,6 +10,7 @@ In my master’s degree, I used AI techniques to classify the electrical signal 
 
 ### Repositories:
 
+- [ai_pytorch](https://github.com/lujoba/ai_pytorch): Some PyTorch scripts;
 - [DSP](https://github.com/lujoba/DSP): Digital signal processing scripts;
 - [Image Processing](https://github.com/lujoba/ImageProcessing): Some libraries for helping with image processing and data augmentation;
 - [Utils](https://github.com/lujoba/Utils): Some scripts for analysis and pre-processing of images;
